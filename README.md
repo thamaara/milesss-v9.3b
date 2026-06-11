@@ -1,4 +1,4 @@
-# Miles Sound System SDK 9.3b (2012'12'12) — PC-Windows
+# Miles Sound System SDK 9.3b (2012'12'12)
 Published by RAD Game Tools (now part of Epic Games)
 
 Version 9.3b, from 2012'12'12, preserved and maintained by Archivo Federal.
